@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Askus99
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django
+- 🌱 I’m mainly interact with any web apps
 - 💞️ I’m looking to collaborate on Python project
 - 📫 Reach me at alfajriaskus@gmail.com
 
